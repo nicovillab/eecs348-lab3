@@ -8,7 +8,4 @@ cd ~/public_html
 # copy all files here, then:
 bash grant_permission.sh
 ```
-Visit https://people.eecs.ku.edu/~YOUR_ID/
-
-## Before submitting
-- practice1.html: swap the YouTube video id for your own video
+Visit: (https://people.eecs.ku.edu/~j085v356/)
